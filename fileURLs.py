@@ -1,5 +1,3 @@
-import collections
-
 #uso dict para no tener TODAS las URLs del archivo en memoria
 urls = dict()
 
